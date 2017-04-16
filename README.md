@@ -1,6 +1,6 @@
 # Sorting_Algorithms
 
-This Repo Consists of C++ code for Sorting Algorithm.
+This Repo Consists of C++ code for  Various Sorting Algorithm .
 
  1.Bubble Sort.
  2.Insertion Sort.
